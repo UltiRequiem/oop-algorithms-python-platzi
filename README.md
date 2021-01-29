@@ -41,9 +41,9 @@ El contenido de este repositorio esta basado en el curso del mismo nombre dictad
 - [Graficado](./Notas/05|Graficado)
     - [¿Por qué graficar?](./Notas/05|Graficado/05_PorqueGraficar.md)
     - [Graficado simple](./Notas/05|Graficado/26_GraficadoSimple.md)
-- [Algoritmos de optimización](#Algoritmos-de-optimización)
-    - [Introducción a la optimización](#Introducción-a-la-optimización)
-    - [El problema del morral](#El-problema-del-morral)
+- [Algoritmos de optimización](./Notas/06|AlgoritmosDeOptimización)
+    - [Introducción a la optimización](./Notas/06|AlgoritmosDeOptimización/27_IntroduccionLaOptimizacion.md)
+    - [El problema del morral](./Notas/06|AlgoritmosDeOptimización/28_ElProblemaDelMorral.md)
 
 ### Objetivos:
 Con este repositorio tengo como **objetivos:**
