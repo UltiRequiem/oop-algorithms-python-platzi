@@ -37,7 +37,7 @@ El contenido de este repositorio esta basado en el curso del mismo nombre dictad
     - [Ordenamiento de burbuja](./Notas/03|AlgoritmosDeBusquedaOrdenacion/21_OrdenamientoDeBurbuja.md)
     - [Ordenamiento por inserción](./Notas/03|AlgoritmosDeBusquedaOrdenacion/22_OrdenamientoPorInserción.md)
     - [Ordenamiento por mezcla](./Notas/03|AlgoritmosDeBusquedaOrdenacion/23_OrdenamientoPorMezcla.md)
-- [Ambientes virtuales](./Notas/04|24_AmbientesVirtuales.md)
+- [Ambientes virtuales](./Notas/04|AmbientesVirtuales/24_AmbientesVirtuales.md)
 - [Graficado](./Notas/05|Graficado)
     - [¿Por qué graficar?](./Notas/05|Graficado/05_PorqueGraficar.md)
     - [Graficado simple](./Notas/05|Graficado/26_GraficadoSimple.md)
@@ -51,3 +51,7 @@ Con este repositorio tengo como **objetivos:**
 - Entender cómo medir la eficiencia temporal y espacial de nuestros algoritmos.
 - Entender cómo y por qué graficar.
 - Aprender a resolver problemas de búsqueda, ordenación y optimización.
+
+Recuerda que si quiere tener estas Notas en formato PDF, ya sea simplemente para descargarlas o imprimirlas las puede encontrar [aquí](./Notas/Finales/Book.pdf). 
+
+**Si es que este repositorio le fue util,o simplemente le gusto,considere darle una estrella**
