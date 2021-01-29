@@ -11,7 +11,7 @@
 
 El contenido de este repositorio esta basado en el curso del mismo nombre dictado por [David Aroesti](https://Twitter.com/jdaroesti) en [Platzi](https://platzi.com/r/EliazBobadilla).Si es que usted es nuevo en Python talvez deberia empezar por [este curso](https://platzi.com/clases/python), o tambien por [este otro](https://platzi.com/clases/python-2019/) del mismo profesor de este curso.
 ## Tabla de contenido
-- [Programación Orientada a Objetos](#Programación-Orientada-a-Objetos)
+- [Programación Orientada a Objetos](/Notas))
     - [Objetivos](#Objetivos)
     - [Programación orientada a objetos en Python](#Programación-orientada-a-objetos-en-Python)
     - [Tipos de datos abstractos y clases, Instancias](#Tipos-de-datos-abstractos-y-clases,-Instancias)

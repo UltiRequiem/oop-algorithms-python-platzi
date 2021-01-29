@@ -1,12 +1,4 @@
-# ¿Por qué graficar?
-
-Es importante que podamos traducir los datos que nos arrojan nuestro programa en un elemento visual, así podemos realizar reconocimientos de patrones, predicción de series, simplifica la interpretación y la conclusión acerca de los datos.
-
-<div align="center"> 
-  <img src="Notas/src/grafico.svg" width="80%">
-</div>
-
-## Graficado simple
+# Graficado simple
 
 La librería [**Bokeh**](http://docs.bokeh.org/en/latest/index.html) permite construir gráficas complejas de manera rápida y con comandos simples, también nos permite exportar a varios formatos como html, notebooks, imágenes, etc. [**Bokeh**](http://docs.bokeh.org/en/latest/index.html#) se puede utilizar en el servidor con **Flask** y **Django**.
 

@@ -1,11 +1,7 @@
-# Introducción a la optimización
-
-El concepto de **optimización** permite resolver muchos problemas de manera computacional. Cuando pensamos en un algoritmo de optimización debemos definir una función objetivo que debemos maximizar o minimizar, respetando una serie de limitantes que definamos. 
-
-## El problema del morral
+# El problema del morral
 
 <div align="center"> 
-  <img src="Notas/src/backpack-problem.png" width="40%">
+  <img src="../scr/backpack-problem.png" width="40%">
 </div>
 
 Imagina que eres un ladrón que entra a un museo pero tienes un gran problema, nada mas tienes una mochila pero hay muchísimas cosas mas de las que puedes cargar, por lo cual debes determinar cuales artículos puedes cargar y te entregaran el mayor valor posible.
@@ -33,4 +29,3 @@ if __name__ == '__main__':
 
     resultado = morral(tamano_morral, pesos, valores, n)
     print(resultado)
-```
