@@ -19,7 +19,7 @@ El contenido de este repositorio esta basado en el curso del mismo nombre dictad
     - [Metodos de las Instancias](./Notas/01|ProgramaciónOrientadaAObjetos/05_MetodosDeInstancia.md)
     - [Datos Abstractos](./Notas/01|ProgramaciónOrientadaAObjetos/06_DatosAbstractos.md)
     - [Instancias](./Notas/01|ProgramaciónOrientadaAObjetos/07_Instancias.md)
-    - [Decomposició0n](./Notas/01|ProgramaciónOrientadaAObjetos/08_Descomposicion.md)
+    - [Decomposición](./Notas/01|ProgramaciónOrientadaAObjetos/08_Descomposicion.md)
     - [Abstracción](./Notas/01|ProgramaciónOrientadaAObjetos/09_Abstracción.md)
     - [Encapsulación, getters and setters](./Notas/01|ProgramaciónOrientadaAObjetos/10_EncapsulaciónGettersAndSetters.md)
     - [Herencia](./Notas/01|ProgramaciónOrientadaAObjetos/11_Herencia.md)
