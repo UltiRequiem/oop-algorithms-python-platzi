@@ -1,7 +1,7 @@
 # El problema del morral
 
 <div align="center"> 
-  <img src="../scr/backpack-problem.png" width="40%">
+  <img src="../src/backpack-problem.png" width="40%">
 </div>
 
 Imagina que eres un ladrón que entra a un museo pero tienes un gran problema, nada mas tienes una mochila pero hay muchísimas cosas mas de las que puedes cargar, por lo cual debes determinar cuales artículos puedes cargar y te entregaran el mayor valor posible.
