@@ -1,4 +1,3 @@
-
 <div align="center">
   <h1>Programación orientada a objetos y Algoritmos con Python</h1>
 </div>
