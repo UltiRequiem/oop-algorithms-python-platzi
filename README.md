@@ -29,7 +29,7 @@ El contenido de este repositorio esta basado en el curso del mismo nombre dictad
     - [Aproximaciones](./Notas/02|ComplejidadAlgorítmica/14_Aproximaciones.md)
     - [Medición Temporal](./Notas/02|ComplejidadAlgorítmica/15_MedicionTemporal.md)
     - [Conteo abstracto de operación](./Notas/02|ComplejidadAlgorítmica/16_ConteoAbstracto.md)
-    - [Notación asintótica](./Notas/02|ComplejidadAlgorítmica/17_NotaciónAsintótica.md)
+    - [Notación asintótica](./Notas/02|ComplejidadAlgorítmica/17_NotacionAsintonica.md)
     - [Clases de complejidad algorítmica](./Notas/02|ComplejidadAlgorítmica/18_ClasesDeComplejidadAlgoritmica.md)
 - [Algoritmos de búsqueda y ordenación](#Algoritmos-de-búsqueda-y-ordenación)
     - [Búsqueda lineal](#Búsqueda-lineal)
