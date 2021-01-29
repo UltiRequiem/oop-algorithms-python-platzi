@@ -7,10 +7,10 @@
   <img src="Notas/src/python.png" width="250">
 </div>
 
-# Introducción 
+# Introducción:
 
 El contenido de este repositorio esta basado en el curso del mismo nombre dictado por [David Aroesti](https://Twitter.com/jdaroesti) en [Platzi](https://platzi.com/r/EliazBobadilla).Si es que usted es nuevo en Python talvez deberia empezar por [este curso](https://platzi.com/clases/python), o tambien por [este otro](https://platzi.com/clases/python-2019/) del mismo profesor de este curso.
-## Tabla de contenido
+## Indice:
 - [Programación Orientada a Objetos](./Notas/01|ProgramaciónOrientadaAObjetos/)
     - [Objetivos](#objetivos)
     - [Clases en Python](./Notas/01|ProgramaciónOrientadaAObjetos/02_Clases.md)
@@ -24,12 +24,13 @@ El contenido de este repositorio esta basado en el curso del mismo nombre dictad
     - [Encapsulación, getters and setters](./Notas/01|ProgramaciónOrientadaAObjetos/10_EncapsulaciónGettersAndSetters.md)
     - [Herencia](./Notas/01|ProgramaciónOrientadaAObjetos/11_Herencia.md)
     - [Polimorfismo](./Notas/01|ProgramaciónOrientadaAObjetos/12_Polimorfismo.md)
-- [Complejidad algorítmica](./Notas/02|ComplejidadAlgoritmica)
-    - [Introducción a la complejidad algorítmica](./Notas/02|Complejidad algorítmica/Introducción-a-la-complejidad-algorítmica)
-    - [Medición temporal](./Notas/02|Complejidad algorítmica/Medición-temporal)
-    - [Conteo abstracto de operación](./Notas/02|Complejidad algorítmica/Conteo-abstracto-de-operación)
-    - [Notación asintótica](./Notas/02|Complejidad algorítmica/Notación-asintótica)
-    - [Clases de complejidad algorítmica](./Notas/02|Complejidad algorítmica/Clases-de-complejidad-algorítmica)
+- [Complejidad algorítmica](./Notas/02|ComplejidadAlgorítmica)
+    - [Introducción a la complejidad algorítmica](./Notas/02|ComplejidadAlgorítmica/13_IntroduccionLaComplejidadAlgoritimica.md)
+    - [Aproximaciones](./Notas/02|ComplejidadAlgorítmica/14_Aproximaciones.md)
+    - [Medición Temporal](./Notas/02|ComplejidadAlgorítmica/15_MedicionTemporal.md)
+    - [Conteo abstracto de operación](./Notas/02|ComplejidadAlgorítmica/16_ConteoAbstracto.md)
+    - [Notación asintótica](./Notas/02|ComplejidadAlgorítmica/17_NotaciónAsintótica.md)
+    - [Clases de complejidad algorítmica](./Notas/02|ComplejidadAlgorítmica/18_ClasesDeComplejidadAlgoritmica.md)
 - [Algoritmos de búsqueda y ordenación](#Algoritmos-de-búsqueda-y-ordenación)
     - [Búsqueda lineal](#Búsqueda-lineal)
     - [Búsqueda binaria](#Búsqueda-binaria)
@@ -44,7 +45,7 @@ El contenido de este repositorio esta basado en el curso del mismo nombre dictad
     - [Introducción a la optimización](#Introducción-a-la-optimización)
     - [El problema del morral](#El-problema-del-morral)
 
-## Objetivos
+### Objetivos:
 Con este repositorio tengo como **objetivos:**
 - Entender cómo funciona la Programación Orientada a Objetos.
 - Entender cómo medir la eficiencia temporal y espacial de nuestros algoritmos.
