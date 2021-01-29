@@ -3,7 +3,7 @@
 El **ordenamiento por mezcla** creado por **John von Neumann** el cual aplica el concepto de "divide y conquista". Primero divide una lista en partes iguales hasta que quedan sublistas de 1 o 0 elementos. Luego las recombina en forma ordenada.
 
 <div align="center"> 
-  <img src="Notas/src/merge-sort.gif" width="60%">
+  <img src="../src/merge-sort.gif" width="60%">
 </div>
 
 ```py

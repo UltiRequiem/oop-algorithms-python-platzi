@@ -11,5 +11,5 @@ Existen distintos tipos de complejidad algorítmica:
 - **O(n!) Factorial:** crece de forma **factorial**, por lo que al igual que el exponencial su carga es muy alta, por lo que jamas utilizar algoritmos de este tipo.
 
 <div align="center"> 
-  <img src="src/big-o-complexity-chart.png" width="70%">
+  <img src="../src/big-o-complexity-chart.png" width="70%">
 </div>

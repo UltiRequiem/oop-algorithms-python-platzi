@@ -9,7 +9,7 @@ La **búsqueda binaria** es uno de los mejores algoritmos que se tienen hoy en d
 </div>
 
 <div align="center"> 
-  <img src="Notas/src/binary-and-linear-search-animations.gif" width="70%">
+  <img src="../src/binary-and-linear-search-animations.gif" width="70%">
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@ La **búsqueda binaria** es uno de los mejores algoritmos que se tienen hoy en d
 </div>
 
 <div align="center"> 
-  <img src="Notas/src/linear-vs-binary-search-worst-case.gif" width="70%">
+  <img src="../src/linear-vs-binary-search-worst-case.gif" width="70%">
 </div>
 
 <div align="center">
@@ -25,7 +25,7 @@ La **búsqueda binaria** es uno de los mejores algoritmos que se tienen hoy en d
 </div>
 
 <div align="center"> 
-  <img src="Notas/src/linear-vs-binary-search-best-case.gif" width="70%">
+  <img src="../src/linear-vs-binary-search-best-case.gif" width="70%">
 </div>
 
 Para ver de forma practica haremos una búsqueda binaria a través de código. Lo primero que tenemos que realizar es ordenar nuestra lista antes de ejecutar la búsqueda.
