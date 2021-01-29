@@ -37,7 +37,7 @@ El contenido de este repositorio esta basado en el curso del mismo nombre dictad
     - [Ordenamiento de burbuja](./Notas/03|AlgoritmosDeBusquedaOrdenacion/21_OrdenamientoDeBurbuja.md)
     - [Ordenamiento por inserción](./Notas/03|AlgoritmosDeBusquedaOrdenacion/22_OrdenamientoPorInserción.md)
     - [Ordenamiento por mezcla](./Notas/03|AlgoritmosDeBusquedaOrdenacion/23_OrdenamientoPorMezcla.md)
-- [Ambientes virtuales](#Ambientes-virtuales)
+- [Ambientes virtuales](./Notas/04|24_AmbientesVirtuales.md)
 - [Graficado](#Graficado)
     - [¿Por qué graficar?](#¿Por-qué-graficar?)
     - [Graficado simple](#Graficado-simple)
