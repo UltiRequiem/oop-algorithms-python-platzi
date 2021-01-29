@@ -34,7 +34,7 @@ if __name__ == '__main__':
             biblioteca.quitar_libro(indice)
 
         elif opcion == 5:
-            print("Gracias por visitar {}".format(biblioteca.consultar_nombre_biblioteca))
+            print("Gracias por visitar. \n (⌒ー⌒)ﾉ")
             ejecutar = False
 
         else:
