@@ -1,10 +1,6 @@
-<div align="center">
-  <h1>Programación orientada a objetos y Algoritmos con Python</h1>
-</div>
+<div align="center"> <h1>Programación orientada a objetos y Algoritmos con Python</h1></div>
 
-<div align="center"> 
-  <img src="Notas/src/python.png" width="250">
-</div>
+<div align="center"> <img src="Notas/src/python.png" width="250"> </div>
 
 # Introducción:
 
