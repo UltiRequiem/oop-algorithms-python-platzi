@@ -47,3 +47,6 @@ python3 casilla.py  # Ejecutamos nuestro código.
 None
 Ciudad de México
 ```
+- [Capitulo Anterior](./09_Abstraccion.md)                                                                 
+
+- [Capitulo Siguiente](./11_Herencia.md)

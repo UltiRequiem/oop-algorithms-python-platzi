@@ -32,3 +32,6 @@ if __name__ == '__main__':
     cuadrado = Cuadrado(lado=5)
     print(cuadrado.area())
 ```
+- [Capitulo Anterior](./09_Abstraccion.md)                                                                 
+
+- [Capitulo Siguiente](./11_Herencia.md)

@@ -37,3 +37,7 @@ def main():
 if __name__ == '__main__':
     main()
 ```
+
+- [Capitulo Anterior](./11_Herencia.md)                                                                 
+
+- [Capitulo Siguiente](./../02|ComplejidadAlgorítmica/13_IntroduccionLaComplejidadAlgoritimica.md)
