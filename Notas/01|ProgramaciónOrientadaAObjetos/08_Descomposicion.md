@@ -50,3 +50,7 @@ class Motor:
     def inyecta_gasolina(self, cantidad):
         pass
 ```
+
+- [Capitulo Anterior](./07_Instancias.md)                                                                 
+
+- [Capitulo Siguiente](./09_Abstraccion.md)

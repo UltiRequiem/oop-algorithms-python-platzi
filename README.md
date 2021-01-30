@@ -8,6 +8,7 @@ El contenido de este repositorio esta basado en el curso del mismo nombre dictad
 ## Indice:
 - [Programación Orientada a Objetos](./Notas/01|ProgramaciónOrientadaAObjetos/)
     - [Objetivos](#objetivos)
+    - [POO en Python](./Notas/01|ProgramaciónOrientadaAObjetos/01_POOenPython.md)
     - [Clases en Python](./Notas/01|ProgramaciónOrientadaAObjetos/02_Clases.md)
     - [Instancias en Python](./Notas/01|ProgramaciónOrientadaAObjetos/03_Instancias.md)
     - [Atributos de las Instancias](./Notas/01|ProgramaciónOrientadaAObjetos/04_AtributosDeLaInstancia.md)

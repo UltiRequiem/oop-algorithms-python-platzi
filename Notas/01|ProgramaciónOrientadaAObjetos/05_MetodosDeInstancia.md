@@ -24,3 +24,7 @@ hotel.ocupacion_total() # 2
 ```
 
 Ahora que ya sabemos qué son las clases y cómo las podemos utilizar en nuestros programas, platícanos qué clases te serían útiles para modelar en uno de tus programas.
+
+- [Capitulo Anterior](./04_AtributosDeLaInstancia.md)                                                                 
+
+- [Capitulo Siguiente](./06_DatosAbstractos.md)

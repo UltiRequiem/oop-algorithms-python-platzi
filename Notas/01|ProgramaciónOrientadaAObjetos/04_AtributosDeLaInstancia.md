@@ -14,3 +14,7 @@ class Hotel:
 hotel = Hotel(numero_maximo_de_huespedes=50, lugares_de_estacionamiento=20)
 print(hotel.lugares_de_estacionamiento) # 20
 ```
+
+- [Capitulo Anterior](./03_Instancias.md)                                                                 
+
+- [Capitulo Siguiente](./05_MetodosDeInstancia.md)

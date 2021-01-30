@@ -12,3 +12,7 @@ Sin embargo, este tipo de organización rápidamente se sale de control. ¿Qué 
 Las clases nos permiten crear nuevos tipos que contiene información arbitraria sobre un objeto. En el caso del hotel, podríamos crear dos clases `Hotel()` y `Cuarto()` que nos permitiera dar seguimiento a las propiedades como número de cuartos, ocupación, aseo, tipo de habitación, etc.
 
 Es importante resaltar que las clases sólo proveen estructura. Son un molde con el cual podemos construir objetos específicos. La clase señala las propiedades que los hoteles que modelemos tendrán, pero no es ningún hotel específico. Para eso necesitamos las instancias.
+
+- [Capitulo Anterior](./01_POOenPython.md)                                                                 
+
+- [Capitulo Siguiente](./03_Instancias.md)

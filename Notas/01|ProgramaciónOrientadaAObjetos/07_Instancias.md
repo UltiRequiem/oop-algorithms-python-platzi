@@ -33,3 +33,7 @@ if __name__ == '__main__'
     # podemos verificar con isinstance
     print(isinstance(coord_2, Coordenada))
 ```
+
+- [Capitulo Anterior](./06_DatosAbstractos.md)                                                                 
+
+- [Capitulo Siguiente](./08_Descomposicion.md)

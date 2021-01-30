@@ -54,3 +54,7 @@ karl = Persona('Karl', 26)
 david.saluda(karl)
 'Hola Karl, me llamo David'
 ```
+
+- [Capitulo Anterior](./05_MetodosDeInstancia.md)                                                                 
+
+- [Capitulo Siguiente](./07_Instancias.md)

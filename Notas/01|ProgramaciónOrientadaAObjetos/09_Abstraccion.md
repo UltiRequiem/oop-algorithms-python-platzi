@@ -44,3 +44,6 @@ if __name__ == '__main__':
     lavadora = Lavadora()
     lavadora.lavar() # Ejecutamos el método publico de nuestra instancia.
 ```
+- [Capitulo Anterior](./08_Descomposicion.md)                                                                 
+
+- [Capitulo Siguiente](./10_EncapsulaciónGettersAndSetters.md)
