@@ -14,14 +14,23 @@ class Ciclista(Persona):
 
     def avanza(self):
         print('Ando moviendome en mi bicicleta')
+        
+        
+class Conductor(Persona):
+
+    def __init__(self, nombre):
+        super().__init__(nombre)
+
+    def avanza(self):
+        print('Ando moviendome en mi auto')
 
 
 def main():
     persona = Persona('David')
     persona.avanza()
 
-    ciclista = Ciclista('Daniel')
-    ciclista.avanza()
+    conductor = Conductor('Pedro')
+    conductor.avanza()
 
 
 if __name__ == '__main__':
