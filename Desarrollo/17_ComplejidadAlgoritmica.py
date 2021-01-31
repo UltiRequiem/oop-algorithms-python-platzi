@@ -19,15 +19,15 @@ def factorial_recursive(n):
 
 
 if __name__ == '__main__':
-    n = 2500
+    n = 200000
     sys.setrecursionlimit(n + 10)
 
-    startingTime = time.time()
+    comienzo = time.time()
     factorial(n)
-    endTime = time.time()
-    print(f"Execturion time with bucle\t{endTime - startingTime}")
+    final = time.time()
+    print(f"Execturion time with bucle\t{final - comienzo}")
 
-    startingTime = time.time()
+    comienzo = time.time()
     factorial_recursive(n)
-    endTime = time.time()
-    print(f"Execution time with recusive\t{endTime - startingTime}")
+    final = time.time()
+    print(f"Execution time with recusive\t{final - comienzo}")
