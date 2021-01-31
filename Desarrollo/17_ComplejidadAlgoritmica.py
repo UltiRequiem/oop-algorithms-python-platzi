@@ -25,9 +25,9 @@ if __name__ == '__main__':
     startingTime = time.time()
     factorial(n)
     endTime = time.time()
-    print(f"Execturion time with bucle\t{endTime - startingTime}");
+    print(f"Execturion time with bucle\t{endTime - startingTime}")
 
     startingTime = time.time()
     factorial_recursive(n)
     endTime = time.time()
-    print(f"Execution time with recusive\t{endTime - startingTime}");
+    print(f"Execution time with recusive\t{endTime - startingTime}")
