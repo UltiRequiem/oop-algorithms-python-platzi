@@ -1,0 +1,2 @@
+![](https://static.platzi.com/media/public/uploads/img-jpg_0aeb280f-3811-4bf9-9b34-85e0de7800c2.PNG)
+![](https://static.platzi.com/media/public/uploads/captura1_c1dcc37c-f086-47d3-9939-9e65bc5e838d.PNG)
