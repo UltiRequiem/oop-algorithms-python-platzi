@@ -51,4 +51,4 @@ Con este repositorio tengo como **objetivos:**
 Recuerda que si quiere tener estas Notas en formato PDF, ya sea simplemente para descargarlas o imprimirlas las puede encontrar [aquí](./Notas/Finales/Book.pdf). 
 
 
-**Si es que este repositorio le fue util,o simplemente le gusto,considere darle una estrella**
+**Si es que este repositorio le fue util, o simplemente le gusto,considere darle una estrella**
