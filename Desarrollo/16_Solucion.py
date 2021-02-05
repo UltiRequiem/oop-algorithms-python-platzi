@@ -26,4 +26,4 @@ if __name__ == '__main__':
     else:
         print('¡El perro No puede comer tantas Croquetas!')
 
-# https://platzi.com/comentario/2224673/
+# https://platzi.com/comentario/2224673
