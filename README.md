@@ -1,6 +1,8 @@
 <div align="center"> <h1>Programación orientada a objetos y Algoritmos con Python</h1></div>
 
-<div align="center"> <img src="Notas/src/python.png" width="250"> </div>
+<div align="center">
+<a href="https://platzi.com/clases/poo-python/"><img src="./Notas/src/python.png" width="250"/></a>
+</div>
 
 # Introducción:
 
