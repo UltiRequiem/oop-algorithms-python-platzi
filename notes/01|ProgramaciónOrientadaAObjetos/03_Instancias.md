@@ -15,6 +15,6 @@ Una vez que tenemos una clase llamada Hotel podemos generar una instancia llaman
 hotel = Hotel()
 ```
 
-- [Capitulo Anterior](./02_Clases.md)                                                                 
+- [Capitulo Anterior](./02_Clases.md)
 
 - [Capitulo Siguiente](./04_AtributosDeLaInstancia.md)

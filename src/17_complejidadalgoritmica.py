@@ -1,6 +1,7 @@
 import time
 import sys
 
+
 def factorial(n):
     response = 1
 
@@ -18,7 +19,7 @@ def factorial_recursive(n):
     return n * factorial_recursive(n - 1)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     n = 200000
     sys.setrecursionlimit(n + 10)
 

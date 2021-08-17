@@ -1,6 +1,7 @@
 # Decomposición
 
 La **decomposición** es un concepto simple pero poderoso que implica:
+
 - Dividir un problema en problemas más pequeños.
 - Las clases permiten crear mayores abstracciones en forma de componentes.
 - Cada clase se encarga de una parte del problema y el programa se vuelve más fácil de mantener.
@@ -51,6 +52,6 @@ class Motor:
         pass
 ```
 
-- [Capitulo Anterior](./07_Instancias.md)                                                                 
+- [Capitulo Anterior](./07_Instancias.md)
 
 - [Capitulo Siguiente](./09_Abstraccion.md)

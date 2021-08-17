@@ -6,7 +6,6 @@ Los **ambientes virtuales** permiten aislar el ambiente para poder instalar dive
 
 Para crear un ambiente virtual primer crearemos el directorio para nuestro proyecto.
 
-
 ```bash
 mkdir graficado             # Creamos el directorio del proyecto.
 cd graficado/               # Ingresamos al directorio.

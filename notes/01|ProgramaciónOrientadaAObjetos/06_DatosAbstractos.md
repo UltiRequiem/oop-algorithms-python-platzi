@@ -10,7 +10,7 @@ Las formas de interactuar con un objeto:
 - Manipulación
 - Destrucción
 
-Cuando trabajamos con programación orientada a objetos tenemos varias ventajas: 
+Cuando trabajamos con programación orientada a objetos tenemos varias ventajas:
 
 - **De composición:** podemos estructurarlos en objetos mas pequeños.
 - **Abstracción:** no nos preocupamos el funcionamiento del proceso de su comportamiento.
@@ -55,6 +55,6 @@ david.saluda(karl)
 'Hola Karl, me llamo David'
 ```
 
-- [Capitulo Anterior](./05_MetodosDeInstancia.md)                                                                 
+- [Capitulo Anterior](./05_MetodosDeInstancia.md)
 
 - [Capitulo Siguiente](./07_Instancias.md)

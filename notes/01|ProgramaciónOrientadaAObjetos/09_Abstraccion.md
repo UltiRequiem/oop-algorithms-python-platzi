@@ -1,6 +1,7 @@
 # Abstracción
 
 La **abstracción** es:
+
 - Enfocarnos en la información relevante.
 - Separar la información central de los detalles secundarios.
 - Podemos utilizar variables y métodos (privados o públicos).
@@ -44,6 +45,7 @@ if __name__ == '__main__':
     lavadora = Lavadora()
     lavadora.lavar() # Ejecutamos el método publico de nuestra instancia.
 ```
-- [Capitulo Anterior](./08_Descomposicion.md)                                                                 
+
+- [Capitulo Anterior](./08_Descomposicion.md)
 
 - [Capitulo Siguiente](./10_EncapsulaciónGettersAndSetters.md)

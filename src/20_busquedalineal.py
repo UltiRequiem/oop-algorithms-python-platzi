@@ -1,9 +1,10 @@
 import random
 
+
 def busqueda_lineal(lista, objetivo):
     match = False
 
-    for elemento in lista: # O(n)
+    for elemento in lista:  # O(n)
         if elemento == objetivo:
             match = True
             break
@@ -11,9 +12,9 @@ def busqueda_lineal(lista, objetivo):
     return match
 
 
-if __name__ == '__main__':
-    tamano_de_lista = int(input('De que tamano sera la lista? '))
-    objetivo = int(input('Que numero quieres encontrar? '))
+if __name__ == "__main__":
+    tamano_de_lista = int(input("De que tamano sera la lista? "))
+    objetivo = int(input("Que numero quieres encontrar? "))
 
     lista = [random.randint(0, 100) for i in range(tamano_de_lista)]
 

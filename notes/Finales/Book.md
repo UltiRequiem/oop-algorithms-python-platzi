@@ -11,34 +11,35 @@
 El contenido de este Libro esta basado en el curso del mismo nombre dictado por [David Aroesti](https://Twitter.com/jdaroesti) en [Platzi](https://platzi.com/r/EliazBobadilla).Si es que usted es nuevo en Python talvez deberia empezar por [este curso](https://platzi.com/clases/python), o tambien por [este otro](https://platzi.com/clases/python-2019/) del mismo profesor de este curso.
 
 # Tabla de contenido
+
 - [Programación Orientada a Objetos](#Programación-Orientada-a-Objetos)
-    - [Objetivos](#Objetivos)
-    - [Programación orientada a objetos en Python](#Programación-orientada-a-objetos-en-Python)
-    - [Tipos de datos abstractos y clases, Instancias](#Tipos-de-datos-abstractos-y-clases,-Instancias)
-    - [Decomposición](#Decomposición)
-    - [Abstracción](#Abstracción)
-    - [Encapsulación, getters and setters](#Encapsulación,-getters-and-setters)
-    - [Herencia](#Herencia)
-    - [Polimorfismo](#Polimorfismo)
+  - [Objetivos](#Objetivos)
+  - [Programación orientada a objetos en Python](#Programación-orientada-a-objetos-en-Python)
+  - [Tipos de datos abstractos y clases, Instancias](#Tipos-de-datos-abstractos-y-clases,-Instancias)
+  - [Decomposición](#Decomposición)
+  - [Abstracción](#Abstracción)
+  - [Encapsulación, getters and setters](#Encapsulación,-getters-and-setters)
+  - [Herencia](#Herencia)
+  - [Polimorfismo](#Polimorfismo)
 - [Complejidad algorítmica](#Complejidad-algorítmica)
-    - [Introducción a la complejidad algorítmica](#Introducción-a-la-complejidad-algorítmica)
-    - [Medición temporal](#Medición-temporal)
-    - [Conteo abstracto de operación](#Conteo-abstracto-de-operación)
-    - [Notación asintótica](#Notación-asintótica)
-    - [Clases de complejidad algorítmica](#Clases-de-complejidad-algorítmica)
+  - [Introducción a la complejidad algorítmica](#Introducción-a-la-complejidad-algorítmica)
+  - [Medición temporal](#Medición-temporal)
+  - [Conteo abstracto de operación](#Conteo-abstracto-de-operación)
+  - [Notación asintótica](#Notación-asintótica)
+  - [Clases de complejidad algorítmica](#Clases-de-complejidad-algorítmica)
 - [Algoritmos de búsqueda y ordenación](#Algoritmos-de-búsqueda-y-ordenación)
-    - [Búsqueda lineal](#Búsqueda-lineal)
-    - [Búsqueda binaria](#Búsqueda-binaria)
-    - [Ordenamiento de burbuja](#Ordenamiento-de-burbuja)
-    - [Ordenamiento por inserción](#Ordenamiento-por-inserción)
-    - [Ordenamiento por mezcla](#Ordenamiento-por-mezcla)
+  - [Búsqueda lineal](#Búsqueda-lineal)
+  - [Búsqueda binaria](#Búsqueda-binaria)
+  - [Ordenamiento de burbuja](#Ordenamiento-de-burbuja)
+  - [Ordenamiento por inserción](#Ordenamiento-por-inserción)
+  - [Ordenamiento por mezcla](#Ordenamiento-por-mezcla)
 - [Ambientes virtuales](#Ambientes-virtuales)
 - [Graficado](#Graficado)
-    - [¿Por qué graficar?](#¿Por-qué-graficar?)
-    - [Graficado simple](#Graficado-simple)
+  - [¿Por qué graficar?](#¿Por-qué-graficar?)
+  - [Graficado simple](#Graficado-simple)
 - [Algoritmos de optimización](#Algoritmos-de-optimización)
-    - [Introducción a la optimización](#Introducción-a-la-optimización)
-    - [El problema del morral](#El-problema-del-morral)
+  - [Introducción a la optimización](#Introducción-a-la-optimización)
+  - [El problema del morral](#El-problema-del-morral)
 
 # Programación Orientada a Objetos
 
@@ -103,7 +104,7 @@ Todas las clases crean objetos y todos los objetos tienen atributos. Utilizamos 
 
 ```py
 class Hotel:
-    
+
     def __init__(self, numero_maximo_de_huespedes, lugares_de_estacionamiento):
         self.numero_maximo_de_huespedes = numero_maximo_de_huespedes
         self.lugares_de_estacionamiento = lugares_de_estacionamiento
@@ -155,7 +156,7 @@ Las formas de interactuar con un objeto:
 - Manipulación
 - Destrucción
 
-Cuando trabajamos con programación orientada a objetos tenemos varias ventajas: 
+Cuando trabajamos con programación orientada a objetos tenemos varias ventajas:
 
 - **De composición:** podemos estructurarlos en objetos mas pequeños.
 - **Abstracción:** no nos preocupamos el funcionamiento del proceso de su comportamiento.
@@ -205,15 +206,16 @@ david.saluda(karl)
 Mientras que la clase es un molde, a los objetos creados se les conoce como instancias. Cuando se crea una instancia, se ejecuta el método `__init__`, y todos los métodos de una clase reciben implícitamente como primer parámetro `self`.
 
 Los atributos de clase nos permiten:
+
 - Representar datos.
 - Procedimientos para interactuar con los mismos (métodos).
 - Mecanismos para esconder la representación.
 
-Para acceder a los atributos de estos objetos se hace a través de la notación de punto. Además puede tener atributos privados (Por convención comienzan con _ ).
+Para acceder a los atributos de estos objetos se hace a través de la notación de punto. Además puede tener atributos privados (Por convención comienzan con \_ ).
 
 ```py
 class Coordenada:
-    
+
     def __init__(self, x, y):
         self.x = x
         self.y = y
@@ -239,6 +241,7 @@ if __name__ == '__main__'
 ## Decomposición
 
 La **decomposición** es un concepto simple pero poderoso que implica:
+
 - Dividir un problema en problemas más pequeños.
 - Las clases permiten crear mayores abstracciones en forma de componentes.
 - Cada clase se encarga de una parte del problema y el programa se vuelve más fácil de mantener.
@@ -292,6 +295,7 @@ class Motor:
 ## Abstracción
 
 La **abstracción** es:
+
 - Enfocarnos en la información relevante.
 - Separar la información central de los detalles secundarios.
 - Podemos utilizar variables y métodos (privados o públicos).
@@ -546,7 +550,7 @@ Cuando hablamos de **notación asintótica** no importan las variaciones pequeñ
 
 Siempre tenemos que estar preparados para cualquier caso, por lo que tenemos que saber medir a nuestro algoritmo en el mejor, promedio y peor de los casos.
 
-Lo mejor que nos permite comparar nuestros algoritmos y su capacidad es medir el peor de los casos, ahí es donde entra el **Big O notation**, donde lo único que importa es el termino de mayor tamaño, sin importar las constantes que las acompañan. 
+Lo mejor que nos permite comparar nuestros algoritmos y su capacidad es medir el peor de los casos, ahí es donde entra el **Big O notation**, donde lo único que importa es el termino de mayor tamaño, sin importar las constantes que las acompañan.
 
 ```py
 # Ley de la suma
@@ -870,7 +874,7 @@ def ordenamiento_por_mezcla(lista):
             lista[k] = derecha[j]
             j += 1
             k += 1
-        
+
         print(f'izquierda {izquierda}, derecha {derecha}')
         print(lista)
         print('-' * 50)
@@ -896,7 +900,6 @@ Los **ambientes virtuales** permiten aislar el ambiente para poder instalar dive
 **Pip** permite descargar paquetes de terceros para utilizar en nuestro programa, también permite compartir nuestros paquetes con terceros y también podemos definir la versión del paquete que necesitamos.
 
 Para crear un ambiente virtual primer crearemos el directorio para nuestro proyecto.
-
 
 ```bash
 mkdir graficado             # Creamos el directorio del proyecto.
@@ -938,7 +941,7 @@ from bokeh.plotting import figure, output_file, show
 if __name__ == '__main__':
     output_file('graficado_simple.html')
     fig = figure()
-    
+
     total_vals = int(input('Cuantos valores quieres graficar?'))
     x_vals = list(range(total_vals))
     y_vals = []
@@ -955,7 +958,7 @@ if __name__ == '__main__':
 
 ## Introducción a la optimización
 
-El concepto de **optimización** permite resolver muchos problemas de manera computacional. Cuando pensamos en un algoritmo de optimización debemos definir una función objetivo que debemos maximizar o minimizar, respetando una serie de limitantes que definamos. 
+El concepto de **optimización** permite resolver muchos problemas de manera computacional. Cuando pensamos en un algoritmo de optimización debemos definir una función objetivo que debemos maximizar o minimizar, respetando una serie de limitantes que definamos.
 
 ## El problema del morral
 
@@ -989,4 +992,5 @@ if __name__ == '__main__':
     resultado = morral(tamano_morral, pesos, valores, n)
     print(resultado)
 ```
+
 Recuerde que todos los ejercicios y las notas en un mejor formato pueden ser encontradas [aquí](https://github.com/EliazBobadilla/POO-y-Algoritmos-con-Python-en-Platzi).

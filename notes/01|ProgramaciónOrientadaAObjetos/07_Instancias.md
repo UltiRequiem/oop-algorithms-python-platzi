@@ -3,15 +3,16 @@
 Mientras que la clase es un molde, a los objetos creados se les conoce como instancias. Cuando se crea una instancia, se ejecuta el método `__init__`, y todos los métodos de una clase reciben implícitamente como primer parámetro `self`.
 
 Los atributos de clase nos permiten:
+
 - Representar datos.
 - Procedimientos para interactuar con los mismos (métodos).
 - Mecanismos para esconder la representación.
 
-Para acceder a los atributos de estos objetos se hace a través de la notación de punto. Además puede tener atributos privados (Por convención comienzan con _ ).
+Para acceder a los atributos de estos objetos se hace a través de la notación de punto. Además puede tener atributos privados (Por convención comienzan con \_ ).
 
 ```py
 class Coordenada:
-    
+
     def __init__(self, x, y):
         self.x = x
         self.y = y
@@ -34,6 +35,6 @@ if __name__ == '__main__'
     print(isinstance(coord_2, Coordenada))
 ```
 
-- [Capitulo Anterior](./06_DatosAbstractos.md)                                                                 
+- [Capitulo Anterior](./06_DatosAbstractos.md)
 
 - [Capitulo Siguiente](./08_Descomposicion.md)

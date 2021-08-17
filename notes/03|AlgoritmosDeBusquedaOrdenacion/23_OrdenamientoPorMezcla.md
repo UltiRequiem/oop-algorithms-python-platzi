@@ -45,7 +45,7 @@ def ordenamiento_por_mezcla(lista):
             lista[k] = derecha[j]
             j += 1
             k += 1
-        
+
         print(f'izquierda {izquierda}, derecha {derecha}')
         print(lista)
         print('-' * 50)

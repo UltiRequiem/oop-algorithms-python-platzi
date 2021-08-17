@@ -7,13 +7,15 @@ class Biblioteca:
         return self.nombre
 
     def agregar_libro(self, libro):
-        self._libros.append({
-            libro.titulo,
-            libro.autor,
-            libro.cantidad_de_paginas,
-            libro.genero,
-            libro.sinopsis
-        })
+        self._libros.append(
+            {
+                libro.titulo,
+                libro.autor,
+                libro.cantidad_de_paginas,
+                libro.genero,
+                libro.sinopsis,
+            }
+        )
 
     def consultar_libros(self):
         return self._libros
